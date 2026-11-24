@@ -1,0 +1,32 @@
+[
+    {
+        "source": "USD",
+        "target": "PHP",
+        "rate": "61.50"
+    },
+    {
+        "source": "USD",
+        "target": "HKD",
+        "rate": "7.84"
+    },
+    {
+        "source": "USD",
+        "target": "CNY",
+        "rate": "24"
+    },
+    {
+        "source": "USD",
+        "target": "EUR",
+        "rate": "70"
+    },
+    {
+        "source": "CNY",
+        "target": "USD",
+        "rate": "100"
+    },
+    {
+        "source": "CKD",
+        "target": "PHP",
+        "rate": "23.56"
+    }
+]
